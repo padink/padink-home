@@ -16,7 +16,7 @@ googleAnalytics = ""
   twitterHandle = ""
 
   # Favicon
-  favicon = "favicon.ico"
+  favicon = "phi.svg"
 
   # Copyright
   copyright = "&copy;2018 Padink Technologies"
