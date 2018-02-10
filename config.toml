@@ -23,10 +23,10 @@ googleAnalytics = ""
 
   # Section - Content
   [params.content]
-    name = "Padink"
-    tagline = "IT & Mech."
-    bio = "Donec at libero lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
-
+    name = "PADink Consortium"
+    tagline = "Better workplace for better performance"
+    bio = "Padink is a IT Service provider, provides website creation, Enterprise Resource Planning, Workflow Management and other online services. We are currently working on your School Management Software Tool which will be available shortly.
+Padink enables enterprises to make their current operations as efficient and cost-effective."
   # Section - Visual
   [params.visual]
 
