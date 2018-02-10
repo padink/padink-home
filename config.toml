@@ -11,8 +11,7 @@ googleAnalytics = ""
 [params]
 
   name = "Padink"
-  description = "Padink is a IT Service provider, provides website creation, Enterprise Resource Planning, Workflow Management and other online services. We are currently working on your School Management Software Tool which will be available shortly.
-Padink enables enterprises to make their current operations as efficient and cost-effective."
+  description = "Padink is a IT Service provider, provides website creation, Enterprise Resource Planning, Workflow Management and other online services. We are currently working on your School Management Software Tool which will be available shortly. Padink enables enterprises to make their current operations as efficient and cost-effective."
   shareImage = "images/social.jpg"
   twitterHandle = ""
 
@@ -26,8 +25,7 @@ Padink enables enterprises to make their current operations as efficient and cos
   [params.content]
     name = "PADink Consortium"
     tagline = "Better workplace for better performance"
-    bio = "Padink is a IT Service provider, provides website creation, Enterprise Resource Planning, Workflow Management and other online services. We are currently working on your School Management Software Tool which will be available shortly.
-Padink enables enterprises to make their current operations as efficient and cost-effective."
+    bio = "Padink is a IT Service provider, provides website creation, Enterprise Resource Planning, Workflow Management and other online services. We are currently working on your School Management Software Tool which will be available shortly. Padink enables enterprises to make their current operations as efficient and cost-effective."
   # Section - Visual
   [params.visual]
 
