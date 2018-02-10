@@ -11,7 +11,8 @@ googleAnalytics = ""
 [params]
 
   name = "Padink"
-  description = "Donec at libero lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
+  description = "Padink is a IT Service provider, provides website creation, Enterprise Resource Planning, Workflow Management and other online services. We are currently working on your School Management Software Tool which will be available shortly.
+Padink enables enterprises to make their current operations as efficient and cost-effective."
   shareImage = "images/social.jpg"
   twitterHandle = ""
 
